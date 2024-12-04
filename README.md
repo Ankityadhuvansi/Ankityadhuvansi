@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Ankit!  
-  
+  <div align="center">
+<img src="https://github.com/Ankityadhuvansi/Octate/blob/main/octocat-1733304890464.png?raw=true" align="center" style="width: 100%" />
+</div>  
 
 <a href="https://github.com/Ankityadhuvansi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -44,7 +46,7 @@ My expertise extends to building and deploying microservices, optimizing systems
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1xH_EW2XWy5LPDlbQ4Qz4M7O7FYNnfHh0/view?usp=share_link" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
 </div>  
 
 
