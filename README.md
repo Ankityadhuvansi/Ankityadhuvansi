@@ -57,7 +57,7 @@ My expertise extends to building and deploying microservices, optimizing systems
 
 ## Languages and Tools  
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzMDU1NzgsIm5iZiI6MTczMzMwNTI3OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA0VDA5NDExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3ZTFhNGNjOGUxZWUwOWU4M2M2YWZlYjk3NjUzMzQ0MWM0N2M2NjMxYjY2ZjI5Yjk1NTNkOTQwYmIxOWU0NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BZYVmfXJHVTnNnfHM3WRJz6kZ-oVAjnIKqWsFnWf2lM" align="center" style="width: 100%" />
+<img src="https://github.com/Ankityadhuvansi/Octate/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" align="center" style="width: 100%" />
 </div>  
 <!---
 <div align="center">  
